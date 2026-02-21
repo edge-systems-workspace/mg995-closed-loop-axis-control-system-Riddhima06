@@ -24,4 +24,7 @@ void setup() {
   Serial.println(angle);
   delay(500);
  }
+ for (int angle = 180 ; angle >= 0 ; angle -= 10) {
+
+ }
 }
