@@ -7,7 +7,7 @@
  * @details
  * This program implements PWM-based control of MG995 servo motor.
  * The system accepts angle input via Serial Monitor and move
- * the servo after validating input range (0–180 degrees).
+ * the servo after validating input range (0–180 degree).
  */
 #include <Arduino.h>
 #include <Servo.h>
